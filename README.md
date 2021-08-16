@@ -29,6 +29,6 @@ The client has requested a landing page that is optimized for search engines and
 
 site link: https://acp25.github.io/horiseon-hw/
 
-
+![hrpic3](https://user-images.githubusercontent.com/60405505/129576772-d059b3e4-3279-4442-85a3-600081a957c5.PNG)
 ![hrpic1](https://user-images.githubusercontent.com/60405505/129576563-90f7deef-4259-44f7-8423-9326ef8373bf.PNG)
 ![hrpic2](https://user-images.githubusercontent.com/60405505/129576576-6651d783-5acb-4a40-95a0-644fb8e13bce.PNG)
