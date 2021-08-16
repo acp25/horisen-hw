@@ -26,3 +26,5 @@ The client has requested a landing page that is optimized for search engines and
 * Re-ordered CSS to follow HTML structure
 * Added alt attributes to images
 * Applied the DRY principle to improve the codebase for long-term sustainability
+
+site link: https://acp25.github.io/horiseon-hw/
