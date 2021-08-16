@@ -28,3 +28,7 @@ The client has requested a landing page that is optimized for search engines and
 * Applied the DRY principle to improve the codebase for long-term sustainability
 
 site link: https://acp25.github.io/horiseon-hw/
+
+
+![hrpic1](https://user-images.githubusercontent.com/60405505/129576563-90f7deef-4259-44f7-8423-9326ef8373bf.PNG)
+![hrpic2](https://user-images.githubusercontent.com/60405505/129576576-6651d783-5acb-4a40-95a0-644fb8e13bce.PNG)
